@@ -6,6 +6,10 @@ TagManager:
   tags:
   - BackGround
   - dodo
+  - Wall
+  - Boundary
+  - Enemy
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -14,7 +18,7 @@ TagManager:
   - Water
   - UI
   - DoDo
-  - 
+  - wall
   - 
   - 
   - 
