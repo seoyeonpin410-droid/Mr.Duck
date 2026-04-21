@@ -4178,7 +4178,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "F - \uC55E\uC73C\uB85C \uAC00\uAE30 \nA - \uB4A4\uB85C \uAC00\uAE30 "
+  m_text: "D - \uC55E\uC73C\uB85C \uAC00\uAE30 \nA - \uB4A4\uB85C \uAC00\uAE30 "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e3bee00c2a5c5d447bd0bce3eafe079c, type: 2}
   m_sharedMaterial: {fileID: 2592595520454848220, guid: e3bee00c2a5c5d447bd0bce3eafe079c, type: 2}
